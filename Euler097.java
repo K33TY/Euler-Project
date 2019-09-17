@@ -6,7 +6,7 @@ import java.math.BigInteger;
  * 28433×2^7830457+1
  */
 
-public class Euler97 {
+public class Euler097 {
 
     public static void main(String[] args)
     {

@@ -13,7 +13,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Euler42
+public class Euler042
 {	
 	public static int[] triangleNumbers = new int[50];
 	public static int count = 0;

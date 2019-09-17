@@ -5,7 +5,7 @@ import java.math.BigInteger;
  * Sum of digits of 2^1000
  */
 
-public class Euler16 {
+public class Euler016 {
 
     public static void main(String[] args)
     {

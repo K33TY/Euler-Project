@@ -13,7 +13,7 @@ import java.math.*;
 import java.math.BigInteger;
 import java.util.*;
 
-public class Euler10v2
+public class Euler010
 {
 	
 	public static boolean isPrime(int n)

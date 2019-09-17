@@ -11,7 +11,7 @@ import java.math.BigInteger;
  * Triangular, pentagonal, hexagonal, where for T(n), n > 285
  */
 
-public class Euler45 {
+public class Euler045 {
 
     public static void main(String[] args)
     {

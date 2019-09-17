@@ -13,7 +13,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Euler33
+public class Euler033
 {	
 	public static int createNum(int a, int b)
 	{

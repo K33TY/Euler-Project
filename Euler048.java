@@ -4,7 +4,7 @@ import java.math.BigInteger;
  * Created by Elizabeth Perk on 12/03/14.
  * Sum of self powers
  */
-public class Euler48 {
+public class Euler048 {
 
     public static void main(String[] args)
     {

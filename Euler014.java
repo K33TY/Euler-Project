@@ -2,7 +2,7 @@
  * Created by Elizabeth Perk on 11/30/14.
  * First triangle number with 500 divisors
  */
-public class Euler14
+public class Euler014
 {
     public static int findTriangle()
     {

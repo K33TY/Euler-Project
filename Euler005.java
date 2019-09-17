@@ -13,7 +13,7 @@
 import java.math.*;
 import java.math.BigInteger;
 
-public class Euler5
+public class Euler005
 {
 
 	public static int[] powers = new int[20];

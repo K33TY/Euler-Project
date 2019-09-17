@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.ArrayList;
 
-public class Euler29
+public class Euler029
 {
     public static ArrayList<BigInteger> values = new ArrayList<BigInteger>();
 

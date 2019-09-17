@@ -10,7 +10,7 @@
   //        of two 3 digit numbers                                        //
  /*----------------------------------------------------------------------//
 |/----------------------------------------------------------------------*/
-public class Euler4 {
+public class Euler004 {
     public static boolean keepGoing = true;
 
     public static boolean check(int i)

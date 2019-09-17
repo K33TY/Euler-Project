@@ -3,7 +3,7 @@ import java.math.BigInteger;
 /**
  * Created by liz on 11/21/14.
  */
-public class Euler8 {
+public class Euler008 {
 
     private static String longNum =
                      "7316717653133062491922511967442657474235534919493496983520312774506326239578318016984801869478851843" +

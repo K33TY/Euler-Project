@@ -4,7 +4,7 @@ import java.math.BigInteger;
  * Created by Elizabeth Perk on 12/01/14.
  * Fibonacci Number with 1000 digits
  */
-public class Euler25
+public class Euler025
 {
     public static int fibTerm = 0;
 

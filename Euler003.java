@@ -11,7 +11,7 @@
 
 import java.math.BigInteger;
 
-public class Euler3
+public class Euler003
 {
 	public BigInteger TWO = new BigInteger("2");
 		

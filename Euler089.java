@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by Elizabeth Perk on 12/03/14.
  * Total characters saved by writing roman numerals properly
  */
-public class Euler89 {
+public class Euler089 {
 
     public static void main(String[] args)
     {

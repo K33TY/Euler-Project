@@ -5,7 +5,7 @@ import java.math.BigInteger;
  * Sum of digits of 100!
  */
 
-public class Euler20 {
+public class Euler020 {
 
     public static void main(String[] args)
     {

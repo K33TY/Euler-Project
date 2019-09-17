@@ -5,7 +5,7 @@ import java.math.BigInteger;
  * Sum of all amicable numbers under 10000
  */
 
-public class Euler21 {
+public class Euler021 {
 
     public static void main(String[] args)
     {

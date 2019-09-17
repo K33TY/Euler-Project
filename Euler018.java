@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by Elizabeth Perk on 12/03/14.
  * Route with max sum
  */
-public class Euler18 {
+public class Euler018 {
 
     public static void main(String[] args)
     {

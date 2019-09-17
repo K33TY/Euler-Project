@@ -12,7 +12,7 @@ Find the product abc.
 
 import java.util.ArrayList;
 
-public class Euler9 {
+public class Euler009 {
 
     public static ArrayList<Integer> squares = new ArrayList<>();
 

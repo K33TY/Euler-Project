@@ -5,7 +5,7 @@ import java.io.*;
  * Created by Elizabeth Perk on 12/01/14.
  * Finding the shortest possible passcode derivation
  */
-public class Euler79
+public class Euler079
 {
     public static ArrayList<Integer> keys = new ArrayList<Integer>();
     public static ArrayList<Digit> digitsH = new ArrayList<Digit>();

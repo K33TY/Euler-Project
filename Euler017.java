@@ -10,7 +10,7 @@
 /*----------------------------------------------------------------------//
 |/---------------------------------------------------------------------*/
 
-public class Euler17
+public class Euler017
 {
 	private static int[] numLetters = new int[1001];
 	private static String[] numStrings = new String[1001];
